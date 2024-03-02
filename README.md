@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @I-Am-A-GitHub-User
-- 👀 I’m interested in Python, C, and C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Python GUI development
-- 📫 Don't reach me unless you are known to me
+- 👋 Hi, I’m @cpythonist.
+- 👀 I’m interested in Python, C, and C++.
+- 🐍 I have a good amount of experience of Python, how it works, and what it does, although I haven't learned the practical application libraries.
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate on Python game and GUI development.
+- 📫 ~Don't reach me unless you are known to me~ Nah, I just wrote it when I was young, so, yeah reach me if you want to collaborate.
 
 <!---
-I-Am-A-GitHub-User/I-Am-A-GitHub-User is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cpythonist/cpythonist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
